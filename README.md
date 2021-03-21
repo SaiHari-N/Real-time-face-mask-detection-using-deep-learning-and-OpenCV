@@ -11,13 +11,7 @@ wearing/removing mask and display of prediction.
 
 ## Working 
 
-### With Mask
 
-![image](mask.png)
-
-### No Mask
-
-![image](nomask.png)
 
 
 
@@ -34,7 +28,7 @@ To use this project on your system, follow these steps:
 1.Clone this repository onto your system by typing the following command on your Command Prompt:
 
 ```
-git https://github.com/Karan-Malik/FaceMaskDetector.git
+git https://github.com/SaiHari-N/Real-time-face-mask-detection-using-deep-learning-and-OpenCV
 ```
 followed by:
 
